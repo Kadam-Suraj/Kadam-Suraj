@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is .Suraj Kadam and I'm a FullStack Developer from India.</h2>
+<h2 align="left">Hi 👋! My name is Suraj Kadam and I'm a FullStack Developer from India.</h2>
 
 ###
 
@@ -48,3 +48,8 @@
 <img src="https://raw.githubusercontent.com/Kadam-Suraj/Kadam-Suraj/output/snake.svg" alt="Snake animation" />
 
 ###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kadam-Suraj/Kadam-Suraj/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kadam-Suraj/Kadam-Suraj/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Kadam-Suraj/Kadam-Suraj/output/github-snake.svg" />
+</picture>
