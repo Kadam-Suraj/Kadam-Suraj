@@ -29,25 +29,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
 
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/kadam-suraj/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/115386696?v=4"  />
 </div>
 
-###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/115386696?v=4"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Kadam-Suraj/Kadam-Suraj/output/snake.svg" alt="Snake animation" />
-
-###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kadam-Suraj/Kadam-Suraj/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kadam-Suraj/Kadam-Suraj/output/github-snake.svg" />
